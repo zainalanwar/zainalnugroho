@@ -5,7 +5,7 @@
 ### **I help teams automate workflows & close more deals with AI**
 
 [![Available for Work](https://img.shields.io/badge/🟢_Open_to_Work-Available-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainalnugroho)
-[![Website](https://img.shields.io/badge/zainalnugroho.com-Website-255E63?style=for-the-badge)](https://zainalnugroho.com)
+[![Website](https://img.shields.io/badge/zainalanwar.web.id-Website-255E63?style=for-the-badge)](https://zainalanwar.web.id)
 
 </div>
 
@@ -154,9 +154,9 @@ Workflow Design   SEMrush            Node.js            Git/GitHub
 | 🌐 **Digital Setup** | WordPress + Email + SEO | Contact for quote |
 | 🔧 **Custom Project** | Tailored automation solution | Contact for quote |
 
-**📧 Email:** [mail@zainalnugroho.com](mailto:mail@zainalnugroho.com)
+**📧 Email:** [mail@zainalanwar.web.id](mailto:mail@zainalanwar.web.id)
 **💼 LinkedIn:** [linkedin.com/in/zainalnugroho](https://linkedin.com/in/zainalnugroho)
-**🌐 Website:** [zainalnugroho.com](https://zainalnugroho.com)
+**🌐 Website:** [zainalanwar.web.id](https://zainalanwar.web.id)
 
 ---
 
@@ -165,8 +165,8 @@ Workflow Design   SEMrush            Node.js            Git/GitHub
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainalnugroho)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@zainalnugroho.com)
-[![Website](https://img.shields.io/badge/Website-Visit-255E63?style=for-the-badge)](https://zainalnugroho.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@zainalanwar.web.id)
+[![Website](https://img.shields.io/badge/Website-Visit-255E63?style=for-the-badge)](https://zainalanwar.web.id)
 
 </div>
 
