@@ -90,21 +90,21 @@
 
 ## 💼 Featured Projects
 
-### [🤖 SEO Autopilot](https://github.com/zainalnugroho/seo-autopilot-skill)
+### [🤖 SEO Autopilot](https://github.com/zainalanwar/seo-autopilot-skill)
 > AI-powered SEO audit tool using MiMo AI. Analyzes websites, detects issues, generates fixes.
 
 `Python` `AI/ML` `SEO` `API Integration`
 
 ---
 
-### [📊 Personal Report Dashboard](https://github.com/zainalnugroho/Personal-report)
+### [📊 Personal Report Dashboard](https://github.com/zainalanwar/Personal-report)
 > HTML dashboard for personal analytics and reporting.
 
 `HTML` `CSS` `Analytics`
 
 ---
 
-### [🔗 SubShare AI](https://github.com/zainalnugroho/subshare-ai)
+### [🔗 SubShare AI](https://github.com/zainalanwar/subshare-ai)
 > AI-powered content sharing platform.
 
 `TypeScript` `Vite` `AI`
