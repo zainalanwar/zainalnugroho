@@ -111,8 +111,8 @@
 ---
 ## 📚 Developer Relations
 
-### [🇮🇩 SerpApi — Tutorial & Tool Lokalisasi](https://github.com/zainalanwar/serpapi-idi-localization)
-Bilingual (ID + EN) tutorial yang menerjemahkan dokumentasi SerpApi ke Bahasa Indonesia + tool Python standalone untuk melacak kata kunci & memonitor peringkat pencarian Google di pasar Indonesia (tanpa `pip install`).
+### [🇮🇩 SerpApi — Koleksi Lokalisasi 4 Engine](https://github.com/zainalanwar/serpapi-idi-localization)
+Bilingual (ID + EN) tutorial yang menerjemahkan dokumentasi SerpApi (Google Search, News, Maps, Autocomplete) ke Bahasa Indonesia + tool Python standalone 4-engine untuk riset keyword, berita, kompetitor lokal, & saran pencarian di pasar Indonesia — `git clone` langsung jalan, tanpa `pip install`.
 
 `Python` `API` `Localization` `DevRel` `SEO`
 
