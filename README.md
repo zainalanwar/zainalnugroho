@@ -15,29 +15,28 @@
 
 <div align="center">
 
-| 🚗 Auto Sales | 🌍 Export Deals | 📱 Lead Gen | 📉 Cost Reduction |
+| 🚀 Page Speed | 📈 Organic Reach | 📱 Paid Leads | 🌍 Export Deals |
 |:---:|:---:|:---:|:---:|
-| **IDR 350M+** | **USD 100K** | **120 Leads** | **87% CPR ↓** |
-| Closed in 10 weeks | India market | From IDR 120K budget | IDR 8K → 1.2K |
+| **50 → 97 Lighthouse** | **1,059 reach** | **34 leads** | **USD 100K** |
+| Frontell (+47 pts) | +356% interactions | @ IDR 11.9K CPL | 30+ B2B prospects |
 
 </div>
 
 ---
 
-## 📖 Case Study: From Manual to Automated
+## 📖 Case Study: Burjo Milenial — Social & Content Growth
 
-**The Problem:**
-> Client spent 3 days manually qualifying leads. Response time was slow, opportunities were lost.
+**The Situation:**
+> A local food & beverage brand needed consistent social visibility and customer engagement.
 
 **What I Did:**
-> Built an AI-assisted workflow that automatically qualifies leads, routes them to the right team, and triggers follow-up sequences.
+> Ran social content planning, customer-facing digital communication, Google Business visibility and review monitoring; produced a 2024 performance report.
 
 **The Result:**
-| Metric | Before | After | Improvement |
-|--------|--------|-------|-------------|
-| Response Time | 3 days | 2 hours | **97% faster** |
-| Lead Qualification | Manual | Automated | **40% more conversions** |
-| Cost per Lead | IDR 8,000 | IDR 1,200 | **85% reduction** |
+| Metric | Result |
+|--------|--------|
+| Organic Reach | **1,059 (+18.3%)** |
+| Interactions | **114 (+356%)** |
 
 ---
 
@@ -134,16 +133,13 @@ Workflow Design   SEMrush            Node.js            Git/GitHub
 
 ---
 
-## 💬 Testimonials
+## 💬 What I've Delivered
 
-> *"Zainal's automation workflow reduced our lead response time from 3 days to 2 hours. The ROI was immediate."*
-> — **Client, Automotive Industry**
+> **"Burjo Milenial — social content & engagement grew to 1,059 organic reach (+18.3%) with 114 interactions (+356%) in the 2024 reporting period."**
 
-> *"The AI-assisted system Zainal built helped us qualify 40% more leads without adding headcount."*
-> — **Client, Digital Services**
+> **"Frontell — on-page SEO & performance work took Lighthouse from 50 to 97 and Largest Contentful Paint from 6.0s to 2.1s."**
 
-> *"Professional, fast, and delivered exactly what we needed. Highly recommend for automation projects."*
-> — **Client, Export Business**
+> **"Heaven Resources — built the B2B buyer pipeline: 30+ prospects mapped, contributing to USD 100K in kapok exports."**
 
 ---
 
